@@ -139,6 +139,13 @@ Write-CUClassDiagram -Path ".\Inheritance.ps1"
 I took the 'liberty' to run Write-CUClassDiagram on some well known modules available on the internet that are classed based.
 These are all great modules, and I recommend you have a look at them!
 
+### PSClassUtils
+
+This is the result of running `Write-CUClassDiagram` on this module itself
+
+
+![PSClassUtils](/Images/PSClassUtilsClasses.png)
+
 
 
 ### Class.HostsManagement
